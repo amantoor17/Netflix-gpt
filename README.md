@@ -2,6 +2,9 @@
 
 - React
 - Tailwind CSS
+- Header
+- Login Form
+- Sign up form
 
 # Features
 
