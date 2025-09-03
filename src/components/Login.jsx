@@ -27,8 +27,8 @@ const Login = () => {
       <Header/>
       <div className='absolute top-0 left-0 w-full h-screen'>
         <img
-          src='src/images/loginPageBgImage.jpg'
-          className='object-cover brightness-40'
+          src='/images/loginPageBgImage.jpg'
+          className='object-cover brightness-40' 
         />
 
       </div>

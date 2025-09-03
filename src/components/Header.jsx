@@ -5,7 +5,7 @@ const Header = () => {
     <div className='absolute px-8 py-2 bg-gradient-to-b from-black z-10'>
       <img
         className='w-44 '
-        src='src/images/Netflix_Logo.png'
+        src='/images/Netflix_Logo.png'
         alt='logo'
       />
     </div>
