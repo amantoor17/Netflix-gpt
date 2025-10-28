@@ -55,7 +55,7 @@ const Login = () => {
         }));
         
         console.log("User signed up:", userCredential.user);
-        navigate("/browse");
+  
       } else {
         // Sign In logic
         const userCredential = await signInWithEmailAndPassword(
