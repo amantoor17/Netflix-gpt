@@ -22,6 +22,14 @@
 - Registered on TMDB Movies & get their API KEY & API TOKEN
 - Get data from TMDB Now Playing Movies list API from Documentation 
 - Fetch from TMDB Movies
+- Custom Hook for Now Playing Movies
+- Create a MovieSlice
+- Update Store with Movies data
+- Main Container && Secondary Container
+- Fetch Data for Trailer video
+- Update Store with Trailer Video data
+- Embedded the Youtube Video && made it autoplay and mute
+
 
 # Features
 
