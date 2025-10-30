@@ -1,4 +1,4 @@
-#Only for Desktop View
+# Only for Desktop View
 
 # Netflix GPT
 
