@@ -78,8 +78,8 @@ const Login = () => {
   return (
     <div>
       <Header />
-      <div className='absolute top-0 left-0 w-screen 100vh'>
-        <img src='/images/loginPageBgImage.jpg' className='object-cover h-screen brightness-60' />
+      <div className='absolute top-0 left-0 w-screen h-screen'>
+        <img src='/images/loginPageBgImage.jpg' className='object-cover h-full w-full brightness-60' />
       </div>
 
       <form
