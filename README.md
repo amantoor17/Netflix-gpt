@@ -1,3 +1,5 @@
+#Only for Desktop View
+
 # Netflix GPT
 
 - React
