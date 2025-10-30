@@ -1,4 +1,5 @@
 # Only for Desktop View
+Check out Project here - https://netflixgpt-44829.web.app/
 
 # Netflix GPT
 
