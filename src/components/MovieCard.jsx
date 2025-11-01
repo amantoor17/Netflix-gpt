@@ -8,7 +8,7 @@ const MovieCard = ({ posterPath, title, movieId }) => {
   if (!posterPath) return null;
 
   const handleClick = () => {
-    navigate(`/watch/${movieId}`); // navigate to Watch Page
+    navigate(`/watch/${movieId}`); // navigate to Watch Page CREATED NEW BRANCH
   };
 
   return (
